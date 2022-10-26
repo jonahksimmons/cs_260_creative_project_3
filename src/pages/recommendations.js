@@ -32,7 +32,7 @@ const Recommendations = () => {
 		</div>
 		<br/>
                 <p class="footer">
-                        <a href="github.com">Link to github repo</a>
+                        <a href="https://github.com/jonahksimmons/cs_260_creative_project_3">Link to github repo</a>
                 </p>
                 <br/>
 
