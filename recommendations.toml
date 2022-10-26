@@ -1,0 +1,23 @@
+title = "recommendations"
+
+[software]
+core_utils = "https://github.com/uutils/coreutils"
+text_editor = "https://neovim.io/"
+system_shell = "http://gondor.apana.org.au/~herbert/dash/"
+browser = "https://qutebrowser.org/"
+terminal_emulator = "https://alacritty.org/"
+terminal_multiplexer = "https://github.com/tmux/tmux"
+operating_systems = ["Arch Linux", "Gentoo Linux", "Redox OS"]
+
+[languages]
+spoken = "Esperanto"
+programming = ["Rust", "Go", "Kotlin", "Ruby"]
+
+[misc]
+time_system = "Decimal"
+measurement_system = "Metric"
+tempurature_system = "Celcius"
+games = ["Minetest"]
+currencies = ["Monero", "Wownero"]
+
+
